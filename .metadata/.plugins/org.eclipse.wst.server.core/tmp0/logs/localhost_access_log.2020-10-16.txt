@@ -1,0 +1,10 @@
+127.0.0.1 - - [16/Oct/2020:18:57:13 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Oct/2020:18:57:14 +0530] "GET /CustomerDemo/login.jsp HTTP/1.1" 200 340
+0:0:0:0:0:0:0:1 - - [16/Oct/2020:18:59:08 +0530] "POST /CustomerDemo/log HTTP/1.1" 200 785
+0:0:0:0:0:0:0:1 - - [16/Oct/2020:18:59:21 +0530] "GET /CustomerDemo/updatecustomer.jsp?id=1&name=sewwandi&email=sewwaandi%40gmail.com&phone=0776581980&uname=It4565&pass=sew.123 HTTP/1.1" 200 667
+0:0:0:0:0:0:0:1 - - [16/Oct/2020:18:59:55 +0530] "POST /CustomerDemo/update HTTP/1.1" 200 316
+127.0.0.1 - - [16/Oct/2020:19:13:46 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Oct/2020:19:13:46 +0530] "GET /CustomerDemo/login.jsp HTTP/1.1" 200 340
+0:0:0:0:0:0:0:1 - - [16/Oct/2020:19:14:31 +0530] "POST /CustomerDemo/log HTTP/1.1" 200 785
+0:0:0:0:0:0:0:1 - - [16/Oct/2020:19:14:54 +0530] "GET /CustomerDemo/updatecustomer.jsp?id=1&name=sewwandi&email=sewwaandi%40gmail.com&phone=0776581984&uname=It4565&pass=sew.123 HTTP/1.1" 200 667
+0:0:0:0:0:0:0:1 - - [16/Oct/2020:19:15:41 +0530] "POST /CustomerDemo/update HTTP/1.1" 200 785

@@ -1,0 +1,4 @@
+127.0.0.1 - - [14/Oct/2020:01:19:35 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Oct/2020:01:19:36 +0530] "GET /CustomerDemo/login.jsp HTTP/1.1" 200 340
+0:0:0:0:0:0:0:1 - - [14/Oct/2020:01:19:59 +0530] "POST /CustomerDemo/log HTTP/1.1" 200 785
+0:0:0:0:0:0:0:1 - - [14/Oct/2020:01:20:15 +0530] "GET /CustomerDemo/updatecustomer.jsp?id=1&name=sewwandi&email=sewwaandi%40gmail.com&phone=0776581983&uname=It4565&pass=sew.123 HTTP/1.1" 200 661

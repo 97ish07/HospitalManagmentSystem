@@ -1,0 +1,17 @@
+127.0.0.1 - - [17/Oct/2020:15:10:46 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Oct/2020:15:10:48 +0530] "GET /CustomerDemo/useraccount.jsp HTTP/1.1" 200 441
+0:0:0:0:0:0:0:1 - - [17/Oct/2020:15:11:00 +0530] "GET /CustomerDemo/updatecustomer.jsp;jsessionid=B87152B3E5AB766CA210AD3FE3A008DA?id=&name=&email=&phone=&uname=&pass= HTTP/1.1" 200 616
+127.0.0.1 - - [17/Oct/2020:20:45:42 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Oct/2020:20:45:43 +0530] "GET /CustomerDemo/login.jsp HTTP/1.1" 200 340
+0:0:0:0:0:0:0:1 - - [17/Oct/2020:20:48:30 +0530] "POST /CustomerDemo/log HTTP/1.1" 200 967
+0:0:0:0:0:0:0:1 - - [17/Oct/2020:20:49:45 +0530] "GET /CustomerDemo/deletecustomer.jsp?id=4&name=pamoda&email=pamoda%40gmail.com&uname=It7854&pass=pamo.123 HTTP/1.1" 404 748
+127.0.0.1 - - [17/Oct/2020:20:51:52 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Oct/2020:20:51:53 +0530] "GET /CustomerDemo/login.jsp HTTP/1.1" 200 340
+0:0:0:0:0:0:0:1 - - [17/Oct/2020:20:52:14 +0530] "POST /CustomerDemo/log HTTP/1.1" 200 967
+0:0:0:0:0:0:0:1 - - [17/Oct/2020:20:52:16 +0530] "GET /CustomerDemo/deletecustomer.jsp?id=4&name=pamoda&email=pamoda%40gmail.com&uname=It7854&pass=pamo.123 HTTP/1.1" 404 748
+127.0.0.1 - - [17/Oct/2020:23:58:14 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [17/Oct/2020:23:58:16 +0530] "GET /CustomerDemo/updatecustomer.jsp HTTP/1.1" 200 640
+0:0:0:0:0:0:0:1 - - [17/Oct/2020:23:58:31 +0530] "GET /CustomerDemo/login.jsp HTTP/1.1" 200 340
+0:0:0:0:0:0:0:1 - - [17/Oct/2020:23:59:42 +0530] "GET /CustomerDemo/login.jsp HTTP/1.1" 200 340
+0:0:0:0:0:0:0:1 - - [17/Oct/2020:23:59:46 +0530] "POST /CustomerDemo/log HTTP/1.1" 200 849
+0:0:0:0:0:0:0:1 - - [17/Oct/2020:23:59:59 +0530] "GET /CustomerDemo/updatecustomer.jsp?id=8&name=t&email=t&phone=3&uname=a&pass=a HTTP/1.1" 200 622

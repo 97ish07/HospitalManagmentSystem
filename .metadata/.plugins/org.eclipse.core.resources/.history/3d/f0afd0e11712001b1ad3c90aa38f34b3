@@ -1,0 +1,23 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<form action="#" method="post">
+		User Name <input type="text" name="uid"><br>
+		Doctor Name <input type="text" name="dname"><br>
+		Specialization <input type="text" name="specialization"><br>
+		Appointment Date <input type="text" name="adate"><br>
+		Appointment Time <input type="text" name="atime"><br>
+		
+		<input type="submit" name="submit" value="Make Appointment">
+	</form>
+	
+
+</body>
+</html>
